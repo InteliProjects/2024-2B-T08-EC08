@@ -27,9 +27,6 @@ Desenvolvimento de um Robô para auxiliar a idosos, com medições de frequênci
   - https://github.com/Inteli-College/2024-2B-T08-EC08-G03
 
 - Grupo 4 - 
-  - Link do repositório: https://github.com/InteliProjects/2024-2B-T08-EC08-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-2B-T08-EC08-G04
   - https://github.com/Inteli-College/2024-2B-T08-EC08-G04
 
-- Grupo 5 - 
-  - Link do repositório: https://github.com/InteliProjects/2024-2B-T08-EC08-G03
-  - https://github.com/Inteli-College/2024-2B-T08-EC08-G05
